@@ -3,3 +3,4 @@ second line
 third line
 fourth line
 new color 1
+new color 2
